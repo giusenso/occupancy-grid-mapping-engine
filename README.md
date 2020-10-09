@@ -38,7 +38,7 @@ directory tree:
 
 Make sure to have SDL2 installed: https://wiki.libsdl.org/Installation <br/>
 
-Navigate into the ```SDL-occupancy-grid```  folder and complile everything
+Navigate into the repository folder and complile everything
   ```
   bash compile.sh
   ```
