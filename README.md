@@ -1,6 +1,6 @@
-## Occupancy Grid
+## Occupancy Grid Mapping Engine
 <br/>
-This is a sketch of low-level graphic engine for robot navigation tasks based on occupancy grid mapping. Currently it has no real applications, it is just an idea for future projects.<br/>
+This is a sketch of low-level/low-resources graphic engine for robot navigation tasks based on occupancy grid mapping. Currently it has no real applications, it is just an idea for future projects.<br/>
 <br/>
 <p align="center">
   <img src="img/occupancy_grid_preview.gif"/>
